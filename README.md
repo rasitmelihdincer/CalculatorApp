@@ -1,3 +1,3 @@
 # CalculatorApp
-CalculatorAppJava
-Calculator app using mx parser library
+
+Calculator app  using mx parser library
